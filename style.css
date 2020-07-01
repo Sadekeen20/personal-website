@@ -67,6 +67,7 @@ p{
 .biography{
     background-image: url("biography-bg.png");
     background-repeat: no-repeat;
+    
    
 }
 .latest-work{
@@ -74,6 +75,7 @@ p{
     background-repeat: no-repeat;
     float: left;
     padding-left: 8%;
+    background-size: cover;
 }
 .one-third-width{
     width: 30%;
@@ -119,6 +121,7 @@ p{
     background-repeat: no-repeat;
    float:left;
    text-align: center;
+   background-size: cover;
    
 }
 .div-center
