@@ -42,6 +42,7 @@ h3{
    
     background-image: url("header-bg.png");
     background-repeat: no-repeat;
+    background-size: cover;
    
 }
 section{
@@ -67,7 +68,7 @@ p{
 .biography{
     background-image: url("biography-bg.png");
     background-repeat: no-repeat;
-    
+    background-size: cover;
    
 }
 .latest-work{
