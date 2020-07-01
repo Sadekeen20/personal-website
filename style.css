@@ -31,7 +31,7 @@ h2{
 section{
     height: 500px;
     padding-bottom: 150px;
-    border: 10px solid red;
+   /* border: 10px solid red;*/
 }
 
 .link-button{
@@ -56,7 +56,7 @@ p{
     background-image: url("latest-work-bg.png");
     background-repeat: no-repeat;
     float: left;
-    margin-left: 5%;
+    padding-left: 5%;
 }
 .one-third-width{
     width: 30%;
@@ -96,3 +96,27 @@ p{
    
 }
 */
+
+.last{
+    background-image: url("footer-bg.png");
+    background-repeat: no-repeat;
+   float:left;
+   text-align: center;
+}
+.div-center
+{
+    width: 99%;
+}
+.pink-box{
+    background-image: linear-gradient(45deg,hotpink,rgb(224, 66, 93));
+    height: 100px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.link-button2{
+    text-decoration: none;
+    color: white;
+   
+}
